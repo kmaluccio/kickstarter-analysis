@@ -21,10 +21,14 @@ One challenge encountered with the data was for the deadline and launch dates. T
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 The line chart, for theater outcomes vs launch date, shows us the most successful month to launch this kickstarter is in May and the least successful month is December. So, this can help Louise determine when she it is in her best interest to launch her campaign.
 - What can you conclude about the Outcomes based on Goals?
+
 Kickstarters were more successful when the goal amount was $5000 or less and again rather successful between $35000 - $45000. Louise is asking for double the average goal amount for successful kickstarters which is not good for her campaign.
 - What are some limitations of this dataset?
+
 Limitations to the dataset include not being able to rate interest in the specific name/blurb of the kickstarter. Meaning, there may be some plays that an audience is more interested in so this would be more successful regardless of the goal amount or launch date. Since Louise is only considering these two variables, she might be missing other factors to compare her success to others.
 - What are some other possible tables and/or graphs that we could create?
+
 We can graph the parent category vs outcomes to see which category is most successful. From this, we conclude that the theater has the most number of successful campaigns which is good news for Louise and shows she has a better chance of being successful based on the category she chose. However, this does not mean she will definitely be successful, so this is not the most helpful result of the analysis. Also, we could create a comparison of both goals and launch date vs outcome in countries other than the US, if Louise was interested in starting a kickstarter in another country. We could have made more tables or graphs with the pledged data, but we found that the percentage of funding for each successful kickstarter was mostly over 100% and it was what you would expect for those that failed or were canceled (funding close to 0%). Thus, this information is not helpful to Louise.
