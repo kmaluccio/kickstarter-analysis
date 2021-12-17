@@ -10,10 +10,10 @@ All data, descriptive and category statistics can be found in the excel file tit
 For this analysis, we focused on the data in the category and subcategory theaters/plays. First, we looked at the launch date for all theater campaigns and summed up the total number of successful, failed, or canceled kickstarters based on the month of the launch. This information allowed us to calculate the launch month which has the most successful theater campaigns. This gives Louise an idea of when she might want to launch her campaign with the best chance of it being successful. Next, we want to compare the outcome of the kickstarter campaigns to their goal amount. To do this, we total the number of successful, failed, and canceled theater/play kickstarters based on five thousand increments of goal amounts from less than 1,000 to greater than 50,000. With this, we calculate the percentage of each outcome and graph the results to see which goal amounts are most successful in this category. When calculating this percentage, it is important to makae sure we are not dividing by zero. To avoid this error, we can write an if statement that checks the total projects being greater than 0 and if not, the result should be 0.
 
 ### Analysis of Outcomes Based on Launch Date
-Here is the link to the bar graph of outcomes vs launch date for all kickstarters in the theater category: ![Theater_Outcomes_vs_Launch](https://github.com/kmaluccio/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+This is the bar graph of outcomes vs launch date for all kickstarters in the theater category: ![Theater_Outcomes_vs_Launch](https://github.com/kmaluccio/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-Here is the link to the line graph of outcome vs goal amount for each theater/play kickstarter: ![ParentCategoryOutcomes](https://github.com/kmaluccio/kickstarter-analysis/blob/main/ParentCategoryOutcomes.png)
+This is the line graph of outcome vs goal amount for each theater/play kickstarter: ![ParentCategoryOutcomes](https://github.com/kmaluccio/kickstarter-analysis/blob/main/ParentCategoryOutcomes.png)
 
 ### Challenges and Difficulties Encountered
 
